@@ -31,7 +31,7 @@ chronic disease. These resources will increase access to medical diagnosis and c
 However, the presence of the disaster induces stressors not present in non-disaster regions 
 so the disaster itself may increase the prevalence of the disease. Understanding this 
 relationship would allow better utilization of resources for populations impacted by disasters.
-
+<br>
 
 ### ArcGIS Dataset Visualizations
 <div style="text-align:center;">
@@ -39,6 +39,7 @@ relationship would allow better utilization of resources for populations impacte
     <br>
     <a href="https://univofnm.maps.arcgis.com/home/item.html?id=fe701977973b451da12dc271573b20a6" style="display:inline-block; text-decoration:none;">www.arcgis.com/orgs/C-DRAPS</a>
 </div>
+<br>
 
 
 ### 7-Vital Conditions for Health & Well-being
@@ -47,13 +48,14 @@ relationship would allow better utilization of resources for populations impacte
     <br>
     <a href="https://www.communitycommons.org/collections/Seven-Vital-Conditions-for-Health-and-Well-Being" style="display:inline-block; text-decoration:none;">www.communitycommons.org</a>
 </div>
+<br>
 
 
 ### Transdisciplinary Research Team
 | <img src="https://innovations.unm.edu/wp-content/uploads/2023/12/Lavin-at-the-del-scaled.jpeg" alt="Profile 1" style="width:120px;"><br>Dr. Roberta P. Lavin<br>Project Lead, UNM | <img src="https://xigong.files.wordpress.com/2016/08/xigong.jpg?w=680" alt="Profile 2" style="width:110px;"><br>Dr. Xi Gong<br>Project Co-Lead, UNM                    | <img src="https://directory-tools.health.unm.edu/uploaded_photos/CON-xiyu-photo.jpg" alt="Profile 3" style="width:70px;"><br>Dr. Xiazhong Yu<br>Co-I, UNM                                                                                                              |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://hsc.unm.edu/population-health/_media/tree-images/goodkind_jessica.jpg" alt="Profile 4" style="width:70px;"><br>Dr. Jessica Goodkind<br>Co-I, UNM                | <img src="https://directory-tools.health.unm.edu/uploaded_photos/CON-MCouig-photo.jpg" alt="Profile 5" style="width:70px;"><br>Dr. Mary Pat Couig<br>Collaborator, UNM | <img src="https://media.licdn.com/dms/image/D5603AQHaIWsEFihqkg/profile-displayphoto-shrink_800_800/0/1713802021672?e=1719446400&v=beta&t=IWK_ONZ1xyEv2qpUil4VKoeZKT0Z8waK4dqa0ZG2X4g" alt="Profile 6" style="width:90px;"><br>Fermin Ramos<br>Research Assistant, UNM |
-
+<br>
 
 
 
