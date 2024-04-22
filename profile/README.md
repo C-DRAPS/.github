@@ -36,6 +36,7 @@ relationship would allow better utilization of resources for populations impacte
 ### ArcGIS Dataset Visualizations
 <div style="text-align:center;">
     <img src="https://www.earthdata.nasa.gov/s3fs-public/imported/ESRI_logo_logotype.png?VersionId=l7wkV.k.obchjz7xTnL6aDro6zdvt7nS" alt="Esri Logo" style="display:block; margin:auto; width:500px;">
+    <br>
     <a href="https://univofnm.maps.arcgis.com/home/item.html?id=fe701977973b451da12dc271573b20a6" style="display:inline-block; text-decoration:none;">www.arcgis.com/orgs/C-DRAPS</a>
 </div>
 
@@ -43,6 +44,7 @@ relationship would allow better utilization of resources for populations impacte
 ### 7-Vital Conditions for Health & Well-being
 <div style="text-align:center;">
     <img src="https://communitycommons.s3.amazonaws.com/images/CC-Topic-Pages/CC-Banner-Topic_7-Vital-Conditions_Rainbow.png" alt="Seven Vital Conditions for Health and Well-Being Diagram" style="display:block; margin:auto; width:500px;">
+    <br>
     <a href="https://www.communitycommons.org/collections/Seven-Vital-Conditions-for-Health-and-Well-Being" style="display:inline-block; text-decoration:none;">www.communitycommons.org</a>
 </div>
 
@@ -51,27 +53,27 @@ relationship would allow better utilization of resources for populations impacte
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
   <div style="flex-basis:30%; margin:10px; text-align:center;">
     <img src="https://innovations.unm.edu/wp-content/uploads/2023/12/Lavin-at-the-del-scaled.jpeg" alt="Profile 1" style="width:100px; border-radius:30%;">
-    <p>Dr. Roberta P. Lavin<br><span style="font-style: italic;">Project Lead, UNM</p>
+    <p>Dr. Roberta P. Lavin<br><span style="font-style: italic;">Project Lead, UNM</span></p>
   </div>
   <div style="flex-basis:30%; margin:10px; text-align:center;">
     <img src="https://xigong.files.wordpress.com/2016/08/xigong.jpg?w=680" alt="Profile 2" style="width:100px; border-radius:30%;">
-    <p>Dr. Xi Gong<br><span style="font-style: italic;">Project Co-Lead, UNM</p>
+    <p>Dr. Xi Gong<br><span style="font-style: italic;">Project Co-Lead, UNM</span></p>
   </div>
   <div style="flex-basis:30%; margin:10px; text-align:center;">
     <img src="https://directory-tools.health.unm.edu/uploaded_photos/CON-xiyu-photo.jpg" alt="Profile 3" style="width:100px; border-radius:30%;">
-    <p>Dr. Xiazhong Yu<br><span style="font-style: italic;">Co-I, UNM</p>
+    <p>Dr. Xiazhong Yu<br><span style="font-style: italic;">Co-I, UNM</span></p>
   </div>
   <div style="flex-basis:30%; margin:10px; text-align:center;">
     <img src="https://hsc.unm.edu/population-health/_media/tree-images/goodkind_jessica.jpg" alt="Profile 4" style="width:100px; border-radius:30%;">
-    <p>Jessica Goodkind<br><span style="font-style: italic;">Co-I, UNM</p>
+    <p>Jessica Goodkind<br><span style="font-style: italic;">Co-I, UNM</span></p>
   </div>
   <div style="flex-basis:30%; margin:10px; text-align:center;">
     <img src="https://directory-tools.health.unm.edu/uploaded_photos/CON-MCouig-photo.jpg" alt="Profile 5" style="width:100px; border-radius:30%;">
-    <p>Dr. Mary Pat Couig<br><span style="font-style: italic;">Collaborator</p>
+    <p>Dr. Mary Pat Couig<br><span style="font-style: italic;">Collaborator</span></p>
   </div>
   <div style="flex-basis:30%; margin:10px; text-align:center;">
     <img src="https://media.licdn.com/dms/image/D5603AQHaIWsEFihqkg/profile-displayphoto-shrink_800_800/0/1713802021672?e=1719446400&v=beta&t=IWK_ONZ1xyEv2qpUil4VKoeZKT0Z8waK4dqa0ZG2X4g" alt="Profile 6" style="width:100px; border-radius:30%;">
-    <p>Fermin Ramos<br><span style="font-style: italic;">Research Assistant</p>
+    <p>Fermin Ramos<br><span style="font-style: italic;">Research Assistant</span></p>
   </div>
 </div>
 
